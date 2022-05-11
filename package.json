@@ -43,7 +43,7 @@
     "async": "*",
     "base58-native": "*",
     "bignum": "^0.13.0",
-    "multi-hashing": "git://github.com/solfly/multi-hashing.git"
+    "multi-hashing": "git+https://github.com/solfly/multi-hashing.git"
   },
   "deprecated": false,
   "description": "High performance Stratum poolserver in Node.js",
